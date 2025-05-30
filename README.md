@@ -1,0 +1,2 @@
+# Support-Vector-Machine-Analysis-of-the-Iris-Dataset
+Applied SVM to the Iris dataset for species classification 97.33% accuracy. Petal measurements, especially Petal Width, were most discriminative. Setosa was perfectly classified, with most misclassifications between Versicolor and Virginica. Project highlights SVM's effectiveness in biological classification &amp; suggests areas for enhanced analysis. 
